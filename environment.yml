@@ -1,0 +1,12 @@
+channels:
+  - conda-forge
+dependencies:
+  - ipykernel
+  - ipywidgets
+  - transformers
+  - pytorch-gpu
+  - kagglehub
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
