@@ -1,0 +1,14 @@
+ipykernel
+ipywidgets
+transformers[torch]>=4
+datasets>=4
+# tensorflow requires at least CUDA 12.3
+# unfortunately, we only have CUDA 12.2 locally, which seems to cause a crash
+# tensorflow
+torch
+kagglehub
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn

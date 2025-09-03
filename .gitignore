@@ -1,2 +1,5 @@
 # kaggle login information
 .devcontainer/kaggle.env
+submission.csv
+data/
+models/

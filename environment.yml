@@ -1,13 +1,6 @@
-channels:
-  - conda-forge
 dependencies:
-  - ipykernel
-  - ipywidgets
-  - transformers
-  - pytorch-gpu
-  - kagglehub
-  - numpy
-  - pandas
-  - matplotlib
-  - seaborn
-  - scikit-learn
+  - python=3.12
+  - pip
+  - pip:
+    - -r requirements.txt
+  
